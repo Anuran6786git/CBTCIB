@@ -1,4 +1,4 @@
-# CBTCIB
+# CBTCIP
 Repository  for internship at CipherByte Technology
 # 1.Guess The Number project:
 Project Flow:
